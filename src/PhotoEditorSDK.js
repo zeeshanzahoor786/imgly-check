@@ -10,7 +10,7 @@ export class PhotoEditorSDK extends React.Component {
     try {
       const editor = await PhotoEditorSDKUI.init({
         container: '#editor',
-        image: 'https://fastly.picsum.photos/id/293/200/300.jpg?hmac=P4TXoEffoQVY91UZoUFoLXlifBzZvUbL5nbkn03acdY', // Ensure this path is correct
+        image: 'https://zeeshanportfolio.de/wp-content/uploads/2024/05/img-33s10-1.webp?w=1024', // Ensure this path is correct
         license: '', // Add your license key here if required
       });
       console.log('PhotoEditorSDK for Web is ready!');

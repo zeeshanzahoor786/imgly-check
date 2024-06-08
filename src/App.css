@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* New styles for title and description */
+.title {
+  font-size: 2.5em;
+  margin: 0.5em 0;
+}
+
+.description {
+  font-size: 1.2em;
+  margin: 0.5em 0;
+}
